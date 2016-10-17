@@ -16,3 +16,7 @@ Lianjia:
 	API: http://bj.lianjia.com/chengjiao/getinfo/?page=1&id=101100427559&type=resblock&p=1
 	this version extracts data from lianjia website, not from the api above
 	result: including rent on sale/rent sold
+
+
+
+extract data.zip
